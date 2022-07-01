@@ -1,26 +1,41 @@
-### Olá, meu nome é Jessica, tenho 20 anos e atualmente estudo desenvolvimento web, com foco em front-end.
+## Hello World! 👋🏾 👩🏾‍💻 </h2>
+
+<br />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
+### I am Jessica but you can call me Jess! <3
 
 <br>
 
-<div align="center">
-  <a href="https://github.com/jessbispo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jessbispo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessbispo&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div style="display: inline_block"align="center"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-</div>
-  
-  ## Você pode me encontrar:
- 
-<div align="center"> 
+- 👨‍💻 I’m currently working on web development technologies like JavaScript, React.
+- 📚 I’m currently learning about Frontend and Backend technologies.
+- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+<br>
+<br>
+<br>
 
-  <a href="(https://www.linkedin.com/in/j%C3%A9ssica-bispo-/)" 
-     target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+## 🚀 Currently learning and improving:
+
+
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+
+<br>
+<br>
+
+
+## 🚀 Development tools:
+  
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
  
-  ![Snake animation](https://github.com/jessbispo/jessbispo/blob/output/github-contribution-grid-snake.svg)
- 
-  </div>
+
+
+<br>
