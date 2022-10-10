@@ -7,7 +7,7 @@
 
 <br>
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React.
+- 👨‍💻 I’m currently working on web development technologies like Nodejs and React.
 - 📚 I’m currently learning about Frontend and Backend technologies.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 <br>
