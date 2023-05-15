@@ -7,14 +7,14 @@
 
 <br>
 
-- 👨‍💻 I’m currently working on web development technologies like Nodejs and React.
-- 📚 I’m currently learning about Frontend and Backend technologies.
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+- 👨‍💻 I’m currently working on improving my logical thinking and coding habilities.
+- 📚 I’m currently learning about back-end development, data science (focusing on AI).
+- 💪🏼 Future Goals: Learn more technologies, become more creative, do some research on AIs  - Never stop creating new ideas.
 <br>
 <br>
 <br>
 
-
+<!-- 
 ## 🚀 Currently learning and improving:
 
 
@@ -26,7 +26,7 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 
-<br>
+<br> -->
 <br>
 
 
