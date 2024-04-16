@@ -1,41 +1,19 @@
-## Hello World! 👋🏾 👩🏾‍💻 </h2>
+## Hi :blue_heart:
 
-<br />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+Welcome to my GitHub profile! 
 
-### I am Jessica but you can call me Jess! <3
+Im really driven by the following quote and here im trying to work on projects that make me curious, but not just that. hope you like it.
 
-<br>
+## “Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.” ― Aaron Swartz
 
-- 👨‍💻 I’m currently working on improving my logical thinking and coding habilities.
-- 📚 I’m currently learning about back-end development, data science (focusing on AI).
-- 💪🏼 Future Goals: Learn more technologies, become more creative, do some research on AIs  - Never stop creating new ideas.
-<br>
-<br>
-<br>
+A few personal information:
 
-<!-- 
-## 🚀 Currently learning and improving:
+- 🌎 Based in São Paulo, Brazil
+- :star2: I’m currently focused in learning: AWS, High-Perfomance computing, Algorithms.
+- :sparkling_heart: I love trying new hobbies, as sport, baking, reading etc
 
+Here's a quick guide to what each of my GitHub repositories represents: 
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-
-<br> -->
-<br>
-
-
-## 🚀 Development tools:
-  
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
- 
-
-
-<br>
+- :notebook_with_decorative_cover: for notes that i took in class
+- 📚 for continuous learning and studies,
+- :pager: for my personal projects
