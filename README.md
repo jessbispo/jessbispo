@@ -15,5 +15,5 @@ A few personal information:
 Here's a quick guide to what each of my GitHub repositories represents: 
 
 - :notebook_with_decorative_cover: for notes that i took in class
-- 📚 for continuous learning and studies,
+- 📚 for continuous learning and studies
 - :pager: for my personal projects
