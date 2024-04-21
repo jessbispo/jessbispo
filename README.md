@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! 
 
-Im really driven by the following quote and here im trying to work on projects that make me curious, but not just that. hope you like it.
+Im really driven by the following quote and here im trying to work on projects that make me curious, but not just that. 
 
 ## “Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.” ― Aaron Swartz
 
