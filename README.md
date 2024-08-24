@@ -9,7 +9,7 @@ Im really driven by the following quote and here im trying to work on projects t
 A few personal information:
 
 - 🌎 Based in São Paulo, Brazil
-- :star2: I’m currently focused in learning: AWS, High-Perfomance computing, Algorithms.
+- :star2: I’m currently focused in learning: Cloud, HPC, Java.
 - :sparkling_heart: I love trying new hobbies, as sport, baking, reading etc
 
 Here's a quick guide to what each of my GitHub repositories represents: 
