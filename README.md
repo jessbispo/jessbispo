@@ -1,13 +1,7 @@
 ## Hi :blue_heart:
 
-Welcome to my GitHub profile! 
-
-## “Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.” ― Aaron Swartz
-
-A few personal information:
-
 - 🌎 Based in São Paulo, Brazil
-- :star2: I’m currently focused in learning: Cloud, HPC, Java.
+- :star2: I’m currently focused on building foundational knowledge for both Software Engineer (mostly C++, Python and Java) and Data Engineer (Dedicating a lot of my time to study for a Professional Data Engineer certification)
 - :sparkling_heart: I love trying new hobbies, as sports, baking, reading, writing and others!
 
 Here's a quick guide to what each of my GitHub repositories represents: 
